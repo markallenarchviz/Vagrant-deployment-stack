@@ -20,6 +20,12 @@ Start the virtual machines:
 - $ vagrant up
 
 Wait for the virtual machines to finish configuring.
+Access the application at http://localhost:PORT (replace PORT with the configured port in the application).
+
+# Customization
+
+Virtual Machine Settings: You can customize the virtual machine settings in the Vagrantfile. Refer to the Vagrant documentation for more information.
+
 
 
 
@@ -51,9 +57,3 @@ Acesse a aplicação em http://localhost:PORTA (substitua PORTA pela porta confi
 # Personalização
 
 Configurações da Máquina Virtual: Você pode personalizar as configurações das máquinas virtuais no arquivo Vagrantfile. Consulte a documentação do Vagrant para mais informações.
-
-Access the application at http://localhost:PORT (replace PORT with the configured port in the application).
-
-# Customization
-
-Virtual Machine Settings: You can customize the virtual machine settings in the Vagrantfile. Refer to the Vagrant documentation for more information.
