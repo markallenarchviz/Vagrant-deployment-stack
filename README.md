@@ -11,7 +11,7 @@ Este projeto apresenta uma estrutura DevOps para implantação de uma aplicaçã
 
 # Como Usar
 Clone este repositório:
-- $ git clone https://github.com/seu-username/devops-vagrant.git
+- $ git clone https://github.com/markallenarchviz/devops-vagrant.git
 - $ cd devops-vagrant
 
 Inicie as máquinas virtuais::
