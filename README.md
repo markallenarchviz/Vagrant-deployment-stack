@@ -9,7 +9,7 @@ Este projeto apresenta uma estrutura DevOps para implantação de uma aplicaçã
 ## Requisitos
 
 - [Vagrant](https://www.vagrantup.com/downloads)
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (ou outro provedor de VMs suportado pelo Vagrant)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (or another VM provider supported by Vagrant)
 
 # Como Usar
 Clone este repositório:
@@ -28,4 +28,31 @@ Acesse a aplicação em http://localhost:PORTA (substitua PORTA pela porta confi
 Configurações da Máquina Virtual: Você pode personalizar as configurações das máquinas virtuais no arquivo Vagrantfile. Consulte a documentação do Vagrant para mais informações.
 
 
-######################################################################################################
+____________________________________________________________
+
+# DevOps Project with Vagrant
+
+## Description
+
+This project presents a DevOps structure for deploying an application on virtual machines using Vagrant. Vagrant is a tool for automating the provisioning of virtual machines, making it easy to create and configure development environments.
+
+## Requirements
+
+- [Vagrant](https://www.vagrantup.com/downloads)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (ou outro provedor de VMs suportado pelo Vagrant)
+
+# How to Use
+Clone this repository:
+- $ git clone https://github.com/seu-username/devops-vagrant.git
+- $ cd devops-vagrant
+
+Start the virtual machines:
+- $ vagrant up
+
+Wait for the virtual machines to finish configuring.
+
+Access the application at http://localhost:PORT (replace PORT with the configured port in the application).
+
+# Customization
+
+Virtual Machine Settings: You can customize the virtual machine settings in the Vagrantfile. Refer to the Vagrant documentation for more information.
