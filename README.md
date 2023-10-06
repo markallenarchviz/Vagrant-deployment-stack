@@ -1,6 +1,6 @@
-# Projeto DevOps com Vagrant
-
 English below...
+
+# Projeto DevOps Vagrant
 
 ## Descrição
 
@@ -16,7 +16,7 @@ Clone este repositório:
 - $ git clone https://github.com/markallenarchviz/devops-vagrant.git
 - $ cd devops-vagrant
 
-Inicie as máquinas virtuais::
+Inicie as máquinas virtuais:
 - $ vagrant up
 
 Aguarde até que a configuração das máquinas virtuais seja concluída.
@@ -30,7 +30,6 @@ Configurações da Máquina Virtual: Você pode personalizar as configurações 
 
 ____________________________________________________________
 
-# DevOps Project with Vagrant
 
 ## Description
 
