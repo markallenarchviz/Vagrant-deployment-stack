@@ -1,5 +1,7 @@
 # Projeto DevOps com Vagrant
 
+English below...
+
 ## Descrição
 
 Este projeto apresenta uma estrutura DevOps para implantação de uma aplicação em maquinas virtuais usando Vagrant. O Vagrant é uma ferramenta de automação de provisionamento de máquinas virtuais, facilitando a criação e configuração de ambientes de desenvolvimento.
@@ -24,3 +26,6 @@ Acesse a aplicação em http://localhost:PORTA (substitua PORTA pela porta confi
 # Personalização
 
 Configurações da Máquina Virtual: Você pode personalizar as configurações das máquinas virtuais no arquivo Vagrantfile. Consulte a documentação do Vagrant para mais informações.
+
+
+######################################################################################################
