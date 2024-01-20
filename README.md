@@ -13,7 +13,7 @@ This project presents a DevOps structure for deploying an application on virtual
 
 # How to Use
 Clone this repository:
-- $ git clone https://github.com/seu-username/devops-vagrant.git
+- $ git clone https://github.com/markallenarchviz/devops-vagrant.git
 - $ cd devops-vagrant
 
 Start the virtual machines:
